@@ -1,0 +1,38 @@
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!--
+        Modern React
+    <script crossorigin src="https://unpkg.com/react@16/umd/react.development.js"></script>
+    <script crossorigin src="https://unpkg.com/react-dom@16/umd/react-dom.development.js"></script>
+    -->
+    <script src="https://unpkg.com/react@15.4.2/dist/react.js"></script>
+    <script src="https://unpkg.com/react-dom@15.4.2/dist/react-dom.js"></script>
+
+    <script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
+    <title>Document</title>
+
+    <style>
+        .makeRed {
+            color: red;
+        }
+    </style>
+
+</head>
+
+<body>
+
+    <div id="root">something</div>
+
+    <script type="text/babel">
+
+        let hello_world = React.createElement('h1',{className : "makeRed"},'Hello cruel world');
+        
+        ReactDOM.render(hello_world , document.getElementById('root'));
+
+    </script>
+</body>
+
+</html>
