@@ -1,4 +1,7 @@
 .card {
   width: 100%;
-  height: 5%;
+}
+
+.no_of_birthday {
+  text-align: center;
 }

@@ -1,8 +1,15 @@
 import React from "react";
 import ListComponent from "../ListComponent/ListComponent";
+import "./App.css";
 
 export const App = () => {
-  return <ListComponent></ListComponent>;
+  return (
+    <div className="root_container">
+      <div className="list_component">
+        <ListComponent></ListComponent>
+      </div>
+    </div>
+  );
 };
 
 export default App;

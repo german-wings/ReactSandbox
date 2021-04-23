@@ -23,7 +23,7 @@ const ListComponent = () => {
           );
         })}
       </div>
-      <h1>{data.length}</h1>
+      <h1 className="no_of_birthday">{data.length}</h1>
       <button
         onClick={() => {
           setData([]);
