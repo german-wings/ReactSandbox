@@ -38,6 +38,24 @@
         "xp" : "1500XP",
         "image":"https://wallpapercave.com/wp/wp7267238.jpg",
         "about" : "Kotal Kahn is a warrior from the realm of Osh-Tekk, which was once ruled by Kotal K'etz, his father, but was later merged into Outworld by conquest. After the death of his father, he became the last of his kind. He would eventually usurp Mileena as emperor of Outworld due to his popularity and charisma.Unlike previous Outworld emperors, Kotal Kahn is uninterested in conquering other realms, preferring instead to focus on internal affairs and stabilizing the realm. For this reason, he is strongly opposed to liberating realms that are already under Outworld's domain, believing that a united Outworld would prove stronger against its enemies. He also bears no hatred for Earthrealm or its inhabitants, and has willingly cooperated with them on several occasions, although he is shown to be distrustful of Raiden.At some point in history, he journeyed throughout Earthrealm and encountered the Mayan civilization, wherein he came to be considered a hero after driving off invading Spanish conquistadors. The Mayans named him Buluc Chabtan, their god of war. In his honor, the Mayans began emulating his penchant for consuming blood. However, this caused the Mayans to contract blood disease, killing thousands. In horror and shame, Kotal left the Mayans and returned to Outworld."
+    },
+    {
+        "name" : "Reptile",
+        "origin" : "Zaterra",
+        "ability" :"Sucker Spit",
+        "xp" : "500XP",
+        "image":"https://mcdn.wallpapersafari.com/medium/26/95/lzN9Cx.jpg",
+        "about" : "Reptile is a green garbed, humanoid reptilian creature that embodies the archetype of the unhappy underling. Said to be physically hideous and repulsive, he is renowned for his great stealth and unquestioning loyalty. Unlike many other henchmen, Reptile does not strive for power, nor is he inherently evil. He is caught in a delusional state of mind, obsessed with finding the last remaining member of his race, or freeing his homeworld of Zaterra from Outworld's grasp. Thus, he always remains loyal to Shao Kahn, only obeying other masters to survive and reach his goal of returning Zaterra to its former glory. While well-meaning and sincere, his obsession is so important to him that it causes him temporary fits of insanity. After Shao Kahn's death, his allegiance switches to over to Kotal Kahn, helping him to claim the throne from Mileena, whose rule he is displeased with."
     }
+
+    {
+        "name" : "Kintaro",
+        "origin" : "Shokan",
+        "ability" :"Blow Punch",
+        "xp" : "500XP",
+        "image":"https://wallpapers.com/images/high/ultra-hd-4k-mortal-kombat-x-wallpaper-hd-desktop-background-v778fnu66oajmeda.jpg",
+        "about":"For millennia, the Shokan loyally served Outworld's Kahn, Shao Kahn. One of their kind would always serve in some high capacity within Kahn's empire. They would usually face competition with the Centaurians for this role but they maintained it for generations.One Shokan, Goro, would be chosen to serve as Outworld's champion in the Earthrealm Mortal Kombat tournaments. It was at his hands that Earthrealm's former champion, the Great Kung Lao, died.After Prince Goro's supposed death following Liu Kang's first Mortal Kombat victory, Kintaro would take this role in Outworld but he too was defeated. This would be the start of their fall within Shao Kahn's eyes and their status was reduced during the invasion of Earthrealm with Motaro serving as a general, while Sheeva served as a bodyguard for Queen Sindel."
+    }
+
 
 ]
