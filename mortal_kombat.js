@@ -47,7 +47,7 @@
         "image":"https://mcdn.wallpapersafari.com/medium/26/95/lzN9Cx.jpg",
         "about" : "Reptile is a green garbed, humanoid reptilian creature that embodies the archetype of the unhappy underling. Said to be physically hideous and repulsive, he is renowned for his great stealth and unquestioning loyalty. Unlike many other henchmen, Reptile does not strive for power, nor is he inherently evil. He is caught in a delusional state of mind, obsessed with finding the last remaining member of his race, or freeing his homeworld of Zaterra from Outworld's grasp. Thus, he always remains loyal to Shao Kahn, only obeying other masters to survive and reach his goal of returning Zaterra to its former glory. While well-meaning and sincere, his obsession is so important to him that it causes him temporary fits of insanity. After Shao Kahn's death, his allegiance switches to over to Kotal Kahn, helping him to claim the throne from Mileena, whose rule he is displeased with."
     }
-
+,
     {
         "name" : "Kintaro",
         "origin" : "Shokan",
