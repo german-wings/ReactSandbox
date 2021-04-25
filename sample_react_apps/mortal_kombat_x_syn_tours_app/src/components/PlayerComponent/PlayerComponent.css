@@ -1,0 +1,58 @@
+* {
+  box-sizing: border-box;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  width: 80%;
+  box-shadow: 0.5rem 0.5rem 0.5rem grey;
+  border-radius: 1rem;
+  margin: 1rem;
+}
+
+img {
+  border-top-left-radius: 1rem;
+  border-top-right-radius: 1rem;
+}
+
+h1 {
+  margin: 0rem;
+  padding: 0.5rem;
+}
+
+h2 {
+  margin: 0rem;
+  padding: 0.5rem;
+}
+
+p {
+  margin: 0rem;
+  padding: 0.5rem;
+}
+
+.displayXP {
+  text-align: center;
+  padding: 2rem;
+}
+
+.readMoreBtn {
+  background: rgba(255, 255, 255, 0.73);
+  border: none;
+  text-align: left;
+  color: grey;
+  font-weight: bold;
+  padding: 0rem;
+  margin: 0rem;
+}
+
+.buyBtn {
+  border: none;
+  font-weight: bold;
+  background: black;
+  color: white;
+  border-bottom-left-radius: 1rem;
+  border-bottom-right-radius: 1rem;
+  min-height: 5rem;
+  font-size: 1.5rem;
+}
