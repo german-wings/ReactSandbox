@@ -67,4 +67,4 @@
     about:
       "For millennia, the Shokan loyally served Outworld's Kahn, Shao Kahn. One of their kind would always serve in some high capacity within Kahn's empire. They would usually face competition with the Centaurians for this role but they maintained it for generations.One Shokan, Goro, would be chosen to serve as Outworld's champion in the Earthrealm Mortal Kombat tournaments. It was at his hands that Earthrealm's former champion, the Great Kung Lao, died.After Prince Goro's supposed death following Liu Kang's first Mortal Kombat victory, Kintaro would take this role in Outworld but he too was defeated. This would be the start of their fall within Shao Kahn's eyes and their status was reduced during the invasion of Earthrealm with Motaro serving as a general, while Sheeva served as a bodyguard for Queen Sindel.",
   },
-];
+]
