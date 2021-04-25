@@ -3,7 +3,7 @@ import PlayerComponent from "../PlayerComponent/PlayerComponent";
 import { v4 as uuidv4 } from "uuid";
 import "./App.css";
 let url =
-  "https://raw.githubusercontent.com/german-wings/ReactSandbox/master/mortal_kombat.js";
+  "https://raw.githubusercontent.com/german-wings/ReactSandbox/master/data.json";
 
 const App = () => {
   //handle network calls

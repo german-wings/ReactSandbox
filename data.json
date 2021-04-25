@@ -61,10 +61,30 @@
       "name": "Kintaro",
       "origin": "Shokan",
       "ability": "Blow Punch",
-      "xp": "500XP",
+      "xp": "900XP",
       "image":
         "https://wallpapers.com/images/high/ultra-hd-4k-mortal-kombat-x-wallpaper-hd-desktop-background-v778fnu66oajmeda.jpg",
       "about":
         "For millennia, the Shokan loyally served Outworld's Kahn, Shao Kahn. One of their kind would always serve in some high capacity within Kahn's empire. They would usually face competition with the Centaurians for this role but they maintained it for generations.One Shokan, Goro, would be chosen to serve as Outworld's champion in the Earthrealm Mortal Kombat tournaments. It was at his hands that Earthrealm's former champion, the Great Kung Lao, died.After Prince Goro's supposed death following Liu Kang's first Mortal Kombat victory, Kintaro would take this role in Outworld but he too was defeated. This would be the start of their fall within Shao Kahn's eyes and their status was reduced during the invasion of Earthrealm with Motaro serving as a general, while Sheeva served as a bodyguard for Queen Sindel."
+    },
+    {
+      "name": "Kitanna",
+      "origin": "Edenia",
+      "ability": "Sweet Fan",
+      "xp": "800XP",
+      "image":
+        "https://wallpaperaccess.com/full/381983.jpg",
+      "about":
+        "Princess Kitana is 10,000 years old, but is considered young in her realm of Edenia and has the appearance of a young woman. Throughout the years, she rose to great importance; first as the loyal stepdaughter of Shao Kahn, then as his enemy, tearing herself away from his grasp and freeing her home realm of Edenia. She also led an army into Outworld to combat any chance of Shao Kahn rising to power again.She has shared a subtle love interest with Mortal Kombat champion Liu Kang, even after he was murdered by the Deadly Alliance. Although she was loyal to Shao Kahn for most of her life, she eventually betrayed him and aligned herself with the Earthrealmers. Her betrayal was mainly the result of growing doubts as to the morality of her actions and resulting feelings of guilt, as well as anger at the discovery of the truth about her past and her true father, the late King Jerrod.Prior to joining the Earthrealmers, she was a cold, arrogant, and ruthless assassin who served Shao Kahn dutifully. However, after meeting with Raiden and Liu Kang, this veneer began to gave way to a kinder, selfless, and more noble personality.This led to her murder by her now-corrupted mother, Sindel, becoming one of Quan Chi’s revenants. After Quan Chi’s death, Kitana and Liu Kang became emperor and empress of the Netherrealm."
+    },
+    {
+      "name": "Liu Kang",
+      "origin": "EarthRealm",
+      "ability": "Fire Fist",
+      "xp": "1500XP",
+      "image":
+        "https://img2.goodfon.com/wallpaper/nbig/6/4d/mortal-kombat-x-mkx-liu-kang.jpg",
+      "about":
+        "Liu Kang is one of the most popular and accessible characters in the series. He is one of Earthrealm's greatest warriors, having defeated many to prove his valor. Throughout the series, he has been gradually portrayed as the main hero, becoming champion after the first Mortal Kombat tournament. Liu Kang has found a nemesis in the traitorous Shang Tsung, a sorcerer who he has defeated on numerous occasions. He is often considered the greatest threat to the plans of Shang and his emperor, Shao Kahn. He is a member of the White Lotus Society and trains extensively at the Wu Shi Academy. It was at the Academy that he was murdered by a Deadly Alliance of Shang with Quan Chi."
     }
   ]
