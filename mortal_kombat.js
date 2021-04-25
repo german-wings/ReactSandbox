@@ -1,7 +1,7 @@
 [
     {
         "name" : "SubZero",
-        "orgin" : "EarthRealm",
+        "origin" : "EarthRealm",
         "ability" :"Freezing Ice Sword",
         "xp" : "930XP",
         "image" : "https://free4kwallpapers.com/uploads/originals/2016/05/01/mortal-kombat-x-sub-zero-4k-5k-wallpaper.jpg",
@@ -9,7 +9,7 @@
     },
     {
         "name" : "Scorpion",
-        "orgin" : "EarthRealm",
+        "origin" : "EarthRealm",
         "ability" :"Deadly Dagger",
         "xp" : "1030XP",
         "image":"https://free4kwallpapers.com/uploads/originals/2020/09/25/the-scorpion-wallpaper.jpg",
@@ -17,7 +17,7 @@
     },
     {
         "name" : "Raiden",
-        "orgin" : "The Heavens",
+        "origin" : "The Heavens",
         "ability" :"Lighting Thunder",
         "xp" : "20000XP",
         "image":"https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f376ef48-560a-401b-9ff1-69903444f900/dbyy6np-1b812d0e-93ac-4b9a-a3f2-867af05ac881.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3sicGF0aCI6IlwvZlwvZjM3NmVmNDgtNTYwYS00MDFiLTlmZjEtNjk5MDM0NDRmOTAwXC9kYnl5Nm5wLTFiODEyZDBlLTkzYWMtNGI5YS1hM2YyLTg2N2FmMDVhYzg4MS5qcGcifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.AZi2FQPSt3AnQsFdu07N4QIgFJci2AhQJMuVoR9XlMY",
@@ -25,7 +25,7 @@
     },
     {
         "name" : "Kung Lao",
-        "orgin" : "EarthRealm",
+        "origin" : "EarthRealm",
         "ability" :"Barbers Razor-brimmed hat",
         "xp" : "10000XP",
         "image":"https://www.itl.cat/pngfile/big/115-1153145_hd-16-mortal-kombat-11-kung-lao.jpg",
@@ -33,7 +33,7 @@
     },
     {
         "name" : "Kotal Kahn",
-        "orgin" : "Osh-Tekk",
+        "origin" : "Osh-Tekk",
         "ability" :"Soul Scratch",
         "xp" : "1500XP",
         "image":"https://wallpapercave.com/wp/wp7267238.jpg",
