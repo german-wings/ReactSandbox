@@ -43,7 +43,18 @@ const App = () => {
     <div className="appContainer">
       <h1>Mortal Kombat</h1>
       <h2>Choose Your Players</h2>
-      <h3>Players Left {players.length}</h3>
+      {players.length > 0 ? (
+        <h3>Players Left {players.length}</h3>
+      ) : (
+        <button
+          className="refreshButton"
+          onClick={() => {
+            networkHandler(setPlayers);
+          }}
+        >
+          Refresh
+        </button>
+      )}
       {players.map((data, index) => {
         data.unique_key = uuidv4();
         return (

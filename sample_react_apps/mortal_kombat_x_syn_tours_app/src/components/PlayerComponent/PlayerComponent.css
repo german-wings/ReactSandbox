@@ -15,6 +15,9 @@ img {
   border-top-left-radius: 1rem;
   border-top-right-radius: 1rem;
   background-size: cover;
+  /*object-fit: cover;*/
+  /*height: 50%;*/
+  width: 100%;
 }
 
 h1 {
