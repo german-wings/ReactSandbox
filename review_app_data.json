@@ -1,0 +1,30 @@
+[
+    {
+        "name" : "Scorpio",
+        "avatar_url" : "https://www.ps4wallpapers.com/wp-content/uploads/2017/03/PS4Wallpapers.com_bloodyscorpion.jpg",
+        "company" : "Earth Fighters Inc",
+        "designation" : "CEO",
+        "review" : "Our Ass got kicked real bad , really really bad , and you know what our fighters were afraid of the team even before we started fighting,let alone we can win."
+    },
+    {
+        "name" : "SubZero",
+        "avatar_url" : "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.hdwallpapers.in%2Fdownload%2Fmortal_kombat_x_sub_zero-wide.jpg&f=1&nofb=1",
+        "company" : "Outworld Ass Busters Inc",
+        "designation" : "CEO",
+        "review" : "We kick ass , just kick"
+    },
+    {
+        "name" : "Epictetus",
+        "avatar_url" : "https://i.etsystatic.com/23464095/r/il/795202/2574478999/il_794xN.2574478999_r489.jpg",
+        "company" : "Stoics Inc.",
+        "designation" : "StatesMen",
+        "review" : "We are stoics , we dont fight , We tell everyone to not fight. These people at the Fight are really really bad."
+    },
+    {
+        "name" : "Seneca",
+        "avatar_url" : "https://classicalwisdom.com/wp-content/uploads/2020/03/Bust-of-Seneca-Jean-Paul-GRANDMONT-1276x638-1000x500.jpg",
+        "company" : "Stoics Inc",
+        "designation" : "Principle",
+        "review" : "Peace , Inner Peace is all we want. We can't change the world , we can't control the actions of others. But we can change ourseleves and control actions of selves, so will come the happiness."
+    }
+]
