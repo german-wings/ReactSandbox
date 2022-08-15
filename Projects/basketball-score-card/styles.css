@@ -1,0 +1,46 @@
+
+html , body
+{
+    margin: 0px;
+    color: white;
+    font-family: "Alien";
+}
+
+body{
+    background-image: url("resources/images/tournament.jpg");
+    background-size: cover;
+}
+
+.container{
+    background-color: darkblue;
+    width: 400px;
+    margin: 50px auto 50px auto;
+    padding : 50px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    border-radius: 7px;
+}
+
+.home-container{
+    text-align: center;
+}
+
+.guest-container{
+    text-align: center;
+
+}
+
+.score-h1{
+    background-color: black;
+    display: inline-block;
+    padding: 20px 40px;
+    border-radius: 5px;
+    border: 2px solid white;
+    text-shadow: 0.5px 0.5px 2px whitesmoke;
+}
+
+button{
+    text-align: center;
+    padding: 5px;
+}

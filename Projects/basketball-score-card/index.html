@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Basket Ball Scrorecard</title>
+        <link rel="stylesheet" href="styles.css"/>
+    </head>
+    <body>
+        <div class="container">
+            <div class="home-container">
+                <h3 class="banner-h3">
+                    Avionics Architect
+                </h1>
+                <h1 class="score-h1" id="home-score-banner">
+                    7
+                </h1>
+                <div class="controls">
+                    <button class="scrore-buttons" onclick="addHomePoints(event)">+1</button>
+                    <button class="scrore-buttons" onclick="addHomePoints(event)">+2</button>
+                    <button class="scrore-buttons" onclick="addHomePoints(event)">+3</button>
+                </div>
+            </div>
+            <div class="guest-container">
+                <h3 class="banner-h3">
+                    German Wings
+                </h1>
+                <h1 class="score-h1" id="guest-score-banner">
+                    7
+                </h1>
+                <div class="controls">
+                    <button class="scrore-buttons" onclick="addGuestPoints(event)">+1</button>
+                    <button class="scrore-buttons" onclick="addGuestPoints(event)">+2</button>
+                    <button class="scrore-buttons" onclick="addGuestPoints(event)">+3</button>
+                </div>
+            </div>
+        </div>
+        <div class="container">
+            <h3 id="leads-display-banner">Team GermanWings leading by 7 points</h1>
+        </div>
+
+        <script src="index.js"></script>
+    </body>
+</html>
